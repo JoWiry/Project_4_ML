@@ -1,7 +1,7 @@
 
 
 
-<center> <img src="https://img.freepik.com/free-photo/cooperation-analyst-chart-professional-paper-economics_1418-47.jpg?w=1380&t=st=1689285778~exp=1689286378~hmac=85864f4c561d97821aa08df72a98ba8b2b82a72e4ab409d15d529c3f206513ad, width=300, height=300"> </center>
+<center> <img src="https://i.pinimg.com/564x/b2/ab/05/b2ab050b2efdf58a51322275cb1702a0.jpg, width=300, height=300"> </center>
 
 
 # Бизнес-задача - Классификация в банковском секторе
