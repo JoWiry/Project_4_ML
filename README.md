@@ -1,7 +1,7 @@
 
 
-
 <center> <img src="https://i.pinimg.com/564x/b2/ab/05/b2ab050b2efdf58a51322275cb1702a0.jpg"> </center>
+
 
 
 # Бизнес-задача - Классификация в банковском секторе
